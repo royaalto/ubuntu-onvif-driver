@@ -1,0 +1,1 @@
+/usr/bin/c++   -fPIC -O3 -DNDEBUG   CMakeFiles/js_embed.dir/home/roy/softwares/test_onvif/rapidonvif/3rdparty/protobuf/src/google/protobuf/compiler/js/embed.cc.o  -o js_embed -rdynamic 

@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+fa1e450853c3fa970178d2717a0d540d /home/roy/softwares/test_onvif/rapidonvif/3rdparty/protobuf/src/google/protobuf/compiler/js/well_known_types_embed.cc

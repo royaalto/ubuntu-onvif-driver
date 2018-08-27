@@ -1,0 +1,1 @@
+/usr/bin/c++   -fPIC -O3 -DNDEBUG   CMakeFiles/protoc.dir/home/roy/softwares/test_onvif/rapidonvif/3rdparty/protobuf/src/google/protobuf/compiler/main.cc.o  -o CMakeFiles/CMakeRelink.dir/protoc -rdynamic libprotobuf.a libprotoc.a libprotobuf.a -lpthread /usr/lib/x86_64-linux-gnu/libz.so 

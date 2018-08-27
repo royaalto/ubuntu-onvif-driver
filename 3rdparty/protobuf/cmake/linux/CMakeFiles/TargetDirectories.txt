@@ -1,0 +1,10 @@
+/home/roy/softwares/test_onvif/rapidonvif/3rdparty/protobuf/cmake/linux/CMakeFiles/rebuild_cache.dir
+/home/roy/softwares/test_onvif/rapidonvif/3rdparty/protobuf/cmake/linux/CMakeFiles/install/local.dir
+/home/roy/softwares/test_onvif/rapidonvif/3rdparty/protobuf/cmake/linux/CMakeFiles/protoc.dir
+/home/roy/softwares/test_onvif/rapidonvif/3rdparty/protobuf/cmake/linux/CMakeFiles/edit_cache.dir
+/home/roy/softwares/test_onvif/rapidonvif/3rdparty/protobuf/cmake/linux/CMakeFiles/libprotobuf-lite.dir
+/home/roy/softwares/test_onvif/rapidonvif/3rdparty/protobuf/cmake/linux/CMakeFiles/libprotoc.dir
+/home/roy/softwares/test_onvif/rapidonvif/3rdparty/protobuf/cmake/linux/CMakeFiles/libprotobuf.dir
+/home/roy/softwares/test_onvif/rapidonvif/3rdparty/protobuf/cmake/linux/CMakeFiles/install.dir
+/home/roy/softwares/test_onvif/rapidonvif/3rdparty/protobuf/cmake/linux/CMakeFiles/list_install_components.dir
+/home/roy/softwares/test_onvif/rapidonvif/3rdparty/protobuf/cmake/linux/CMakeFiles/js_embed.dir
